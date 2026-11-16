@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f2027,50:203a43,100:2c5364&height=240&section=header&text=SIMON%20MEZAMPEH&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=SOFTWARE%20ENGINEERING%20%7C%20WEB%20AND%20BACKEND%20%7C%20AI%20TOOLS&descSize=18&descAlignY=64&descColor=00D4FF" width="100%" alt="Simon Mezampeh — Software Engineering, Web, Backend, and AI Tools"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=%20MUCHACHO&fontSize=25&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=ML%20%7C%20BACKEND%20%7C%20AI&descSize=15&descAlignY=60&descColor=00D4FF" width="100%" alt="Simon Mezampeh — Software Engineering, Web, Backend, and AI Tools"/>
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3000&pause=900&color=00D4FF&center=true&vCenter=true&width=850&lines=Software+Engineering+Student;Building+Web+Apps+%26+AI+Tools;Learning+Systems+Design+and+Modern+Development)
 
